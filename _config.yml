@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Programming Book Recommendation
-Description: Good programming books recommendation for various programming language, framework, and architecture. Discuss about React, Vue, Angular, Spring, and so on.
+description: Good programming books recommendation for various programming language, framework, and architecture. Discuss about React, Vue, Angular, Spring, and so on.
+plugins:
+  - jekyll-seo-tag
